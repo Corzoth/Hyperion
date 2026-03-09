@@ -10,4 +10,4 @@ A project that branches from Chronos. Hyperion is an Ubuntu based home server fo
 
 Currently, Hyperion is running on a temporary rig, that being an old office computer, so issues to do with hardware may arise in this initial testing phase, but soon a new dedicated server will be used for Hyperion.
 
-# Last updated 6/3/26
+# Last updated 9/3/26
